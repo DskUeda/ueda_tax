@@ -1,0 +1,125 @@
+#contents {
+	width: 570px;
+	float: left;
+	margin-left: 5px;
+	margin-bottom: 10px;
+}
+#contents .text {
+	width: 541px;
+	font-size: 12px;
+	color: #666;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	padding: 10px;
+	background-color: #FFF;
+	line-height: 24px;
+}
+#contents .ueda_img {
+	margin-top: 5px;
+	margin-right: 20px;
+	margin-left: 310px;
+}
+#contents .new_text {
+	font-size: 10px;
+	color: #666;
+	width: 551px;
+	height: 150px;
+	overflow: auto;
+	padding-top: 10px;
+	padding-left: 10px;
+	margin-top: 10px;
+	background-color: #FFF;
+}
+#contents .new_text dl dd {
+	margin-left: 50px;
+	margin-bottom: 5px;
+}
+#contents .text .map {
+	height: 449px;
+	width: 473px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#contents .pankuzu {
+	font-size: 10px;
+	color: #666;
+}
+#contents .pankuzu a {
+	text-decoration:none;
+}
+#contents .pankuzu a:link {
+	color:#666;
+	font-size: 12px;
+}
+#contents .pankuzu a:visited {
+	color:#666;
+}
+#contents .pankuzu a:hover {
+	color:#0F0;
+}
+#contents .pankuzu a:active {
+	color:#0F0;
+}
+#contents .text .table table {
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+}
+#contents .text .table table th, td {
+	border-bottom-style: solid;
+	border-right-style: solid;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	padding-left: 5px;
+}
+#contents .text .table table th {
+	background-color: #9CF;
+}
+.border {
+	border: 1px solid #CCC;
+	padding-left: 5px;
+}
+#contents .text .info table td{
+	border-right-style: solid;
+	border-bottom-style: solid;
+	padding: 3px;
+	background-color: #FFF;
+}
+#container #contents .text .info table {
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	border-left-width: 2px;
+}
+#container #contents .text .info table tr td table {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+#contents .text .info table tr td table td {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+#contents .text .sitemap ul li {
+	list-style-position: inside;
+	list-style-type: disc;
+}
+#contents .bar {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCC;
+}
